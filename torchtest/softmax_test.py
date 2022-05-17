@@ -2,7 +2,7 @@
 
 import torch
 import cv2
-from softmax_classifiter import softmax_Net
+from CNN_test import Net
 from torchvision import transforms
 
 
